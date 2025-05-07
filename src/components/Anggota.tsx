@@ -13,7 +13,7 @@ const products = [
   
   export default function Anggota() {
     return (
-      <section id="Proker">
+      <section id="Anggota" className="pt-10">
       <div className="bg-white top-0 left-0 w-full">
         <div className="mx-auto max-w-2xl px-4 py-16 sm:px-6 sm:py-24 lg:max-w-7xl lg:px-8">
           <h2 className="text-2xl font-bold tracking-tight text-gray-900">Anggota OSIS SMA Negeri 1 Bobotsari</h2>

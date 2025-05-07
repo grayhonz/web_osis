@@ -3,6 +3,7 @@ import { ChevronDownIcon } from '@heroicons/react/16/solid'
 
 export default function FormAnggota() {
   return (
+    <section id="FormAnggota">
     <form>
       <div className="space-y-12">
         <div className="border-b border-gray-900/10 pb-12">
@@ -412,5 +413,6 @@ export default function FormAnggota() {
         </button>
       </div>
     </form>
+    </section>
   )
 }
